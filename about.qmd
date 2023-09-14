@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Hi
+Hi, I am Thomas, a student at MDS

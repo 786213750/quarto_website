@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Quarto_website"
+  title: "Thomas Jian"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - project.qmd
 
 format:
   html:
